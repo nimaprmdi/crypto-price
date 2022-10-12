@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/crypto-price/static/css/main.9178fede.css",
+    "main.js": "/crypto-price/static/js/main.ab82642b.js",
+    "static/media/spinner.svg": "/crypto-price/static/media/spinner.a77d0f05d7c80f36e1dfb5f024ab873a.svg",
+    "index.html": "/crypto-price/index.html",
+    "main.9178fede.css.map": "/crypto-price/static/css/main.9178fede.css.map",
+    "main.ab82642b.js.map": "/crypto-price/static/js/main.ab82642b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9178fede.css",
+    "static/js/main.ab82642b.js"
+  ]
+}
